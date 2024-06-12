@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imageViewOnBoardingTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="370dp"
+        android:src="@drawable/img_onboard_2" />
+
+    <TextView
+        android:id="@+id/textViewTitleOnBoardingTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save Your Favorites"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="24dp"
+        android:textColor="#000"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/textViewDescriptionOnboardingTwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Keep a collection of your favorite recipes at your fingertips."
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"
+        android:textColor="#666"
+        android:gravity="center" />
+</LinearLayout>

@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Crock Pot Roast",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "1 beef roast",
+      "1 package brown gravy mix",
+      "1 package dried Italian salad dressing mix",
+      "1 package dry ranch dressing mix",
+      "1/2 cup water"
+    ],
+    "instructions": [
+      "Place beef roast in crock pot.",
+      "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+      "Pour the water around the roast.",
+      "Cook on low for 7-9 hours."
+    ],
+    "favorite": false,
+    "category": "Main Meals"
+  },
+  {
+    "name": "Roasted Asparagus",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "1 lb asparagus",
+      "1 1/2 tbsp olive oil",
+      "1/2 tsp kosher salt"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F.",
+      "Cut off the woody bottom part of the asparagus spears and discard.",
+      "With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears.",
+      "Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
+      "Sprinkle with salt.",
+      "With your hands, roll the asparagus around until they are evenly coated with oil and salt.",
+      "Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.",
+      "They should be tender when pierced with the tip of a knife.",
+      "The tips of the spears will get very brown but watch them to prevent burning.",
+      "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
+    ],
+    "favorite": false,
+    "category": "Desserts"
+  },
+  {
+    "name": "Curried Lentils and Rice",
+    "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "1 quart beef broth",
+      "1 cup dried green lentils",
+      "1/2 cup basmati rice",
+      "1 tsp curry powder",
+      "1 tsp salt"
+    ],
+    "instructions": [
+      "Bring broth to a low boil.",
+      "Add curry powder and salt.",
+      "Cook lentils for 20 minutes.",
+      "Add rice and simmer for 20 minutes.",
+      "Enjoy!"
+    ],
+    "favorite": false,
+    "category": "Pastry"
+  },
+  {
+    "name": "Big Night Pizza",
+    "image": "https://st2.depositphotos.com/1692343/5636/i/450/depositphotos_56360353-stock-photo-hot-homemade-pepperoni-pizza.jpg",
+    "ingredients": [
+      "5 teaspoons yeast",
+      "5 cups flour",
+      "4 tablespoons vegetable oil",
+      "2 tablespoons sugar",
+      "2 teaspoons salt",
+      "2 cups hot water",
+      "1/4 cup pizza sauce",
+      "3/4 cup mozzarella cheese"
+    ],
+    "instructions": [
+      "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+      "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+      "Knead the dough and spread onto a pan.",
+      "Spread pizza sauce and sprinkle cheese.",
+      "Add any optional toppings as you wish.",
+      "Bake at 400 deg Fahrenheit for 15 minutes.",
+      "Enjoy!"
+    ],
+    "favorite": false,
+    "category": "Desserts"
+  },
+  {
+    "name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?q=80&w=2160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "2 acorn squash",
+      "1 boiling water",
+      "2 apples chopped into 1.4 inch pieces",
+      "1/2 cup dried cranberries",
+      "1 teaspoon cinnamon",
+      "2 tablespoons melted butter"
+    ],
+    "instructions": [
+      "Cut squash in half, remove seeds.",
+      "Place squash in baking dish, cut-side down.",
+      "Pour 1/4-inch water into dish.",
+      "Bake for 30 minutes at 350 degrees F.",
+      "In large bowl, combine remaining ingredients.",
+      "Remove squash from oven, fill with mix.",
+      "Bake for 30-40 more minutes, until squash tender.",
+      "Enjoy!"
+    ],
+    "favorite": false,
+    "category": "Main Meals"
+  },
+  {
+    "name": "Mic's Yorkshire Puds",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/10/23/GettyImages-875179498.jpg.rend.hgtvcom.406.271.suffix/1698077322866.jpeg",
+    "ingredients": [
+      "200g plain flour",
+      "3 eggs",
+      "300ml milk",
+      "3 tbsp vegetable oil"
+    ],
+    "instructions": [
+      "Put the flour and some seasoning into a large bowl.",
+      "Stir in eggs, one at a time.",
+      "Whisk in milk until you have a smooth batter.",
+      "Chill in the fridge for at least 30 minutes.",
+      "Heat oven to 220C/gas mark 7.",
+      "Pour the oil into the holes of a 8-hole muffin tin.",
+      "Heat tin in the oven for 5 minutes.",
+      "Ladle the batter mix into the tin.",
+      "Bake for 30 minutes until well browned and risen."
+    ],
+    "favorite": false,
+    "category": "Desserts"
+  },
+  {
+    "name": "Old-Fashioned Oatmeal Cookies",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "1 cup raisins",
+      "1 cup water",
+      "3/4 cup shortening",
+      "1 1/2 cups sugar",
+      "2 1/2 cups flour",
+      "1 tsp. soda",
+      "1 tsp. salt",
+      "1 tsp. cinnamon",
+      "1/2 tsp. baking powder",
+      "1/2 tsp. cloves",
+      "2 cups oats",
+      "1/2 cup chopped nuts"
+    ],
+    "instructions": [
+      "Simmer raisins and water over medium heat until raisins are plump, about 15 minutes.",
+      "Drain raisins, reserving the liquid.",
+      "Add enough water to reserved liquid to measure 1/2 cup.",
+      "Heat oven to 400°.",
+      "Mix thoroughly shortening, sugar, eggs and vanilla.",
+      "Stir in reserved liquid.",
+      "Blend in remaining ingredients.",
+      "Drop dough by rounded teaspoonfuls about 2 inches apart onto ungreased baking sheet.",
+      "Bake 8 to 10 minutes or until light brown.",
+      "About 6 1/2 dozen cookies."
+    ],
+    "favorite": false,
+    "category": "Pastry"
+  },
+  {
+    "name": "Blueberry Oatmeal Squares",
+    "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=2235&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "2-1/2 cups rolled oats, (not instant)",
+      "1-1/4 cups all-purpose flour",
+      "1 tbsp grated orange rind",
+      "1/4 tsp salt",
+      "1 cup cold butter, cubed",
+      "3/4 cup packed brown sugar",
+      "3 cups fresh blueberries",
+      "1/2 cup granulated sugar",
+      "1/3 cup orange juice",
+      "4 tsp cornstarch"
+    ],
+    "instructions": [
+      "Filling: In saucepan, bring blueberries, sugar and orange juice to boil; reduce heat and simmer until tender, about 10 minutes.",
+      "Whisk cornstarch with 2 tbsp (25 mL) water; whisk into blueberries and boil, stirring, until thickened, about 1 minute.",
+      "Place plastic wrap directly on surface; refrigerate until cooled, about 1 hour.",
+      "In large bowl, whisk together oats, flour, sugar, orange rind and salt ; with pastry blender, cut in butter until in coarse crumbs.",
+      "Press half into 8-inch (2 L) square parchment paper–lined metal cake pan; spread with blueberry filling.",
+      "Bake in centre of 350°F oven until light golden, about 45 minutes.",
+      "Let cool on rack before cutting into squares.",
+      "(Make-ahead: Cover and refrigerate for up to 2 days or overwrap with heavy-duty foil and freeze for up to 2 weeks.)"
+    ],
+    "favorite": false,
+    "category": "Desserts"
+  },
+  {
+    "name": "Curried chicken salad",
+    "image": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
+    "ingredients": [
+      "3 skinless, boneless chicken breasts, halved lengthwise",
+      "1/2 cup mayonnaise",
+      "1 tbsp lemon zest",
+      "1 tbsp lemon juice",
+      "1 1/2 tsp curry powder",
+      "1/4 tsp salt",
+      "2 ripe mangoes, diced",
+      "1/4 cup dried cranberries",
+      "2 green onions, thinly sliced",
+      "1 celery stalk, finely chopped",
+      "6 leaves Boston lettuce",
+      "6 English muffins, toasted"
+    ],
+    "instructions": [
+      "ARRANGE chicken in a single layer in a large pot.",
+      "Add water to just cover.",
+      "Bring to a boil over medium-high.",
+      "Flip chicken, reduce heat to medium and simmer until cooked, about 6 more min.",
+      "Cool.",
+      "STIR mayo with lemon zest, juice, curry and salt in large bowl.",
+      "Using 2 forks, shred chicken, then stir into mayo mixture with mango, cranberries, green onions and celery.",
+      "Divide among muffins with lettuce leaves",
+      "Sandwich with tops"
+    ],
+    "favorite": false,
+    "category": "Main Meals"
+  },
+  {
+    "name": "Burger Steak",
+    "image": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?q=80&w=2222&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "Chicken breast",
+      "Burger bun",
+      "Purple cabbage",
+      "Mayonnaise",
+      "Pickles",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Cook the chicken breast until golden brown.",
+      "Toast the burger bun.",
+      "Mix shredded purple cabbage with mayonnaise.",
+      "Assemble the sandwich with pickles, cooked chicken, and cabbage mix.",
+      "Serve immediately."
+    ],
+    "favorite": false,
+    "category": "Main Meals"
+  },
+  {
+    "name": "Veggie Tacos",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=2160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "Taco shells",
+      "Chickpeas",
+      "Sweet potatoes",
+      "Avocado",
+      "Tomatoes",
+      "Red onion",
+      "Cilantro",
+      "Lime"
+    ],
+    "instructions": [
+      "Roast the chickpeas and sweet potatoes.",
+      "Prepare the taco shells.",
+      "Chop the avocado, tomatoes, and red onion.",
+      "Assemble the tacos with all the ingredients.",
+      "Squeeze lime juice over the tacos.",
+      "Serve immediately."
+    ],
+    "favorite": true,
+    "category": "Pastry"
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "image": "https://plus.unsplash.com/premium_photo-1673809798970-30c14cfd0ab6?q=80&w=2264&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "Spaghetti",
+      "Ground beef",
+      "Tomato sauce",
+      "Onion",
+      "Garlic",
+      "Parmesan cheese",
+      "Salt",
+      "Pepper",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Cook the spaghetti according to package instructions.",
+      "Sauté onion and garlic in olive oil.",
+      "Add ground beef and cook until browned.",
+      "Pour in tomato sauce and simmer.",
+      "Serve the sauce over the spaghetti.",
+      "Top with grated Parmesan cheese.",
+      "Serve immediately."
+    ],
+    "favorite": false,
+    "category": "Desserts"
+  },
+  {
+    "name": "Healthy Salad",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=2306&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "Mixed greens",
+      "Tomatoes",
+      "Avocado",
+      "Boiled eggs",
+      "Cucumber",
+      "Carrots",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Chop all the vegetables and eggs.",
+      "Mix the greens with chopped vegetables.",
+      "Drizzle with olive oil.",
+      "Season with salt and pepper.",
+      "Toss everything together.",
+      "Serve immediately."
+    ],
+    "favorite": true,
+    "category": "Main Meals"
+  },
+  {
+    "name": "Curry Fish",
+    "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?q=80&w=2187&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "Fish fillets",
+      "Coconut milk",
+      "Curry powder",
+      "Lemon",
+      "Olive oil",
+      "Salt",
+      "Pepper",
+      "Fresh herbs"
+    ],
+    "instructions": [
+      "Season fish with salt and pepper.",
+      "Cook fish in a pan with olive oil.",
+      "Add coconut milk and curry powder to the pan.",
+      "Simmer until the sauce thickens.",
+      "Serve the fish with the curry sauce.",
+      "Garnish with fresh herbs and lemon slices.",
+      "Serve immediately."
+    ],
+    "favorite": false,
+    "category": "Desserts"
+  },
+  {
+    "name": "Gourmet Salad",
+    "image": "https://plus.unsplash.com/premium_photo-1663852705829-aa8707495e2e?q=80&w=2186&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "Mixed greens",
+      "Edible flowers",
+      "Blackberries",
+      "Red onion",
+      "Honey",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Chop the red onion and mix with greens.",
+      "Add blackberries and edible flowers.",
+      "Drizzle with honey and olive oil.",
+      "Season with salt and pepper.",
+      "Toss everything together.",
+      "Serve immediately."
+    ],
+    "favorite": true,
+    "category": "Main Meals"
+  },
+  {
+    "name": "Dumplings",
+    "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "Dumpling wrappers",
+      "Ground pork",
+      "Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy sauce",
+      "Sesame oil",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Mix ground pork with chopped cabbage, garlic, ginger, soy sauce, sesame oil, salt, and pepper.",
+      "Place filling in dumpling wrappers and seal.",
+      "Steam or fry the dumplings until cooked through.",
+      "Serve with soy sauce for dipping.",
+      "Serve immediately."
+    ],
+    "favorite": false,
+    "category": "Pastry"
+  },
+  {
+    "name": "Pork Chop with Apples",
+    "image": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?q=80&w=2352&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "Pork chops",
+      "Apples",
+      "Onions",
+      "Garlic",
+      "Broccoli",
+      "Potatoes",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Season pork chops with salt and pepper.",
+      "Sauté pork chops in olive oil until browned.",
+      "Add sliced apples, onions, and garlic to the pan.",
+      "Cook until the apples and onions are tender.",
+      "Serve with roasted potatoes and steamed broccoli.",
+      "Serve immediately."
+    ],
+    "favorite": true,
+    "category": "Main Meals"
+  }
+]

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imageViewOnboarding"
+        android:layout_width="wrap_content"
+        android:layout_height="370dp"
+        android:src="@drawable/img_onboard_4" />
+
+    <TextView
+        android:id="@+id/textViewTitleOnboarding"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to the Recipe World!"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="24dp"
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/textViewDescriptionOnboarding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Discover a vast variety of recipes, save your favorites, and share your culinary secrets with the world."
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"
+        android:textColor="#666"
+        android:gravity="center_horizontal" />
+
+</LinearLayout>

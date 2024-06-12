@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/red"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="354dp"
+        android:layout_height="266dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/ic_app_logo_2" />
+
+    <com.google.android.material.textfield.TextInputLayout
+    android:id="@+id/emailInputLayout"
+    style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox.Dense"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/logoImageView"
+    android:layout_marginTop="32dp"
+    android:hint="@string/email"
+    app:boxBackgroundColor="@android:color/white"
+    app:endIconDrawable="@android:drawable/ic_dialog_email">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/emailEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+    android:id="@+id/passwordInputLayout"
+    style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox.Dense"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/emailInputLayout"
+    android:layout_marginTop="16dp"
+    android:hint="@string/password"
+    app:boxBackgroundColor="@android:color/white"
+    app:endIconDrawable="@android:drawable/ic_lock_lock"
+    app:endIconMode="password_toggle">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/passwordEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+    android:id="@+id/confirmPasswordInputLayout"
+    style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox.Dense"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/passwordInputLayout"
+    android:layout_marginTop="16dp"
+    android:hint="@string/confirm_password"
+    app:boxBackgroundColor="@android:color/white"
+    app:endIconDrawable="@android:drawable/ic_lock_lock"
+    app:endIconMode="password_toggle">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/confirmPasswordEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+    android:id="@+id/registerButton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/confirmPasswordInputLayout"
+    android:layout_marginTop="24dp"
+    android:text="@string/register"
+    android:backgroundTint="@color/login_button_color"
+    android:textColor="@android:color/white" />
+
+</RelativeLayout>

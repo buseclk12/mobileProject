@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:background="@color/cardview_light_background"
+        tools:context=".UpdateRecipeActivity">
+
+    <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="16dp"
+            app:boxBackgroundMode="outline"
+            app:boxStrokeColor="@color/primaryOrange">
+
+        <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editTextIngredients"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Ingredients"
+                android:inputType="textMultiLine"
+                android:lines="5"
+                android:gravity="top"
+                android:padding="8dp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="16dp"
+            app:boxBackgroundMode="outline"
+            app:boxStrokeColor="@color/primaryOrange">
+
+        <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editTextSteps"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Steps"
+                android:inputType="textMultiLine"
+                android:lines="5"
+                android:gravity="top"
+                android:padding="8dp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save to Database"
+            android:backgroundTint="@color/primaryOrange"
+            android:textColor="@android:color/white"
+            android:padding="16dp"
+            android:layout_marginTop="16dp"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton" />
+</LinearLayout>

@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:background="?attr/selectableItemBackgroundBorderless">
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+    <ImageView
+            android:id="@+id/dialog_recipe_image"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img_onboard_2" />
+
+    <TextView
+            android:id="@+id/dialog_recipe_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:textColor="@color/material_dynamic_neutral70"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:fontFamily="sans-serif-medium" />
+
+    <TextView
+            android:id="@+id/dialog_recipe_ingredients"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ingredients"
+            android:textColor="@color/material_dynamic_neutral70"
+            android:paddingBottom="8dp"
+            android:fontFamily="sans-serif" />
+
+    <TextView
+            android:id="@+id/dialog_recipe_steps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Steps"
+            android:textColor="@color/material_dynamic_neutral70"
+            android:paddingBottom="16dp"
+            android:fontFamily="sans-serif" />
+</LinearLayout>
+    </ScrollView>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:paddingTop="16dp">
+
+        <Button
+                android:id="@+id/dialog_close_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Close"
+                app:cornerRadius="16dp"
+                android:backgroundTint="@color/red"
+                android:textColor="@android:color/white"
+                android:layout_marginEnd="8dp"
+                style="?attr/borderlessButtonStyle" />
+
+        <Button
+                android:id="@+id/dialog_update_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Update"
+                app:cornerRadius="16dp"
+                android:layout_marginEnd="8dp"
+                android:backgroundTint="@color/red"
+                android:textColor="@android:color/white"
+                style="?attr/borderlessButtonStyle" />
+        <Button
+                android:id="@+id/dialog_delete_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Delete"
+                app:cornerRadius="16dp"
+                android:backgroundTint="@color/red"
+                android:textColor="@android:color/white"
+                style="?attr/borderlessButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

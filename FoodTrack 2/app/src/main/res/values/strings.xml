@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodTrack</string>
+    <string name="login" >Login </string>
+    <string name="register_prompt">If you don\'t have an account, please register </string>
+    <string name="email">E-mail </string>
+    <string name="password">Password </string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+</resources>
